@@ -1,27 +1,33 @@
-Ensinando Programação para Crianças
+# Projeto CodePlay
 
-Este projeto foi desenvolvido como parte da disciplina Ciência, Tecnologia e Sociedade (CTS) na UFABC. O objetivo principal era introduzir conceitos básicos de programação para crianças de forma lúdica e acessível, despertando o interesse pelo universo tecnológico desde cedo.
+Este repositório documenta um projeto acadêmico cujo objetivo foi ensinar programação de forma lúdica e acessível para crianças, promovendo o interesse por tecnologia desde cedo.
 
-🛠️ O que foi feito?
-Planejamento de atividades para apresentar conceitos de programação.
-Criação de materiais educativos adaptados para o público infantil.
-Captação de dados sobre o impacto das atividades.
-Desenvolvimento de uma apresentação final para expor os resultados do projeto.
+## 🎯 Objetivo
+- Introduzir conceitos básicos de programação de maneira criativa e educativa.
+- Desenvolver materiais e atividades adaptados ao público infantil.
 
-🎯 Objetivo
-Ensinar programação de forma divertida e simples, promovendo o aprendizado tecnológico em idades iniciais.
+## ✨ Contribuições
+- **Captação e análise de dados** sobre o impacto das atividades.
+- **Elaboração de uma apresentação** informativa para comunicar resultados.
 
-📊 Minha Contribuição
-No projeto, fui responsável por:
-Captar e analisar dados sobre o público e as atividades realizadas.
-Elaborar uma apresentação visual e informativa para comunicar os resultados e os aprendizados do trabalho.
+## 🛠 Tecnologias e Ferramentas
+- Scratch
+- Google Forms
+- Canva, PowerPoint, Word
 
-📌 Resultados
+## 📌 Resultados
 O projeto foi bem-sucedido em demonstrar que conceitos de programação podem ser ensinados de forma acessível e criativa, incentivando crianças a explorar o mundo da tecnologia.
 
-🚀 Tecnologias e Ferramentas
-Google Forms, Canva, PowerPoint, Word, Scratch e Instagram.  
-
-🤝 Créditos
+## 🤝 Créditos
 Este projeto foi desenvolvido como parte de um trabalho em grupo na UFABC, na disciplina de CTS, com apoio dos colegas de equipe e do professor responsável.
+
+
+Explore mais detalhes [aqui](https://github.com/Julia-Soares-saz/Projeto-CodePlay).
+
+
+
+
+ 
+
+
 
