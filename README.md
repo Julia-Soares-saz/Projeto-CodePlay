@@ -1,4 +1,5 @@
 Ensinando Programação para Crianças
+
 Este projeto foi desenvolvido como parte da disciplina Ciência, Tecnologia e Sociedade (CTS) na UFABC. O objetivo principal era introduzir conceitos básicos de programação para crianças de forma lúdica e acessível, despertando o interesse pelo universo tecnológico desde cedo.
 
 🛠️ O que foi feito?
